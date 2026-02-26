@@ -33,3 +33,7 @@ console.log(Boolean(undefined));
 console.log(Boolean([]));
 console.log(Boolean({}));
 console.log(Boolean(NaN));
+
+const name = "aliy";
+console.log(name);
+("");
